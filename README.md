@@ -1,10 +1,9 @@
 
 ## Hi there 👋
-Software Engineer with 8 years of experience in backend and full-stack development, specializing in Java, Node.js, React, and cloud-native architectures.
-Skilled in building scalable APIs and leading high-impact projects from design to deployment. 
+Software Engineer with 8 years of experience in backend and full-stack development, specializing in Java, Node.js, React, and cloud-native architectures. Skilled in building scalable APIs and leading high-impact projects from design to deployment.
 
 ## Tech Stack
-These are technologies I used almost everyday.
+These are technologies I use everyday.
 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
@@ -13,6 +12,17 @@ These are technologies I used almost everyday.
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazon-aws)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+
+You can talk to me about: 
+- Designing and implementing RESTful API
+- Microservices Architecture
+- Event-Driven Architecture
+- OAuth2.0
+- Clean Architecture
+- Design Patterns
+- CI/CD
+- Agile Project Manamanet
+- Product Management
 
 ## Let's connect!
 You can easily connect with me on [LinkedIn](https://www.linkedin.com/in/andrewpettigrew/).
