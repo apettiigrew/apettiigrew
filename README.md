@@ -15,4 +15,4 @@ These are technologies I used almost everyday.
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
 ## Let's connect!
-You can easily connect with me on [LinkedIn](https://www.linkedin.com/in/andrewpettigrew/)..
+You can easily connect with me on [LinkedIn](https://www.linkedin.com/in/andrewpettigrew/).
