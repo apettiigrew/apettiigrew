@@ -4,7 +4,7 @@ Software Engineer with 8 years of experience in backend and full-stack developme
 Skilled in building scalable APIs and leading high-impact projects from design to deployment. 
 
 ## Tech Stack
-These are technogoies I used almost everyday.
+These are technologies I used almost everyday.
 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
