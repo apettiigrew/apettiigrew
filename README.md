@@ -29,7 +29,7 @@ You can talk to me about:
 You can easily connect with me on [LinkedIn](https://www.linkedin.com/in/andrewpettigrew/).
 
 ## Tech Drop Area
-While my Tech Stack is my current and most frequently used tech, these are some other the tools and technologies I have used to get code into production.
+While my Tech Stack is my current and most frequently used tech, these are some other tools and technologies I used to get code into production.
 
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
