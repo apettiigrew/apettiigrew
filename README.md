@@ -28,7 +28,7 @@ You can talk to me about:
 ## Let's connect!
 You can easily connect with me on [LinkedIn](https://www.linkedin.com/in/andrewpettigrew/).
 
-## Tech Drop Area
+## Tech I’ve Used to Ship Code
 While my Tech Stack is my current and most frequently used tech, these are some other tools and technologies I used to get code into production.
 
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
