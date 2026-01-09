@@ -65,6 +65,7 @@ Oracle Endeca Commerce
 | Project           | Description                                                                                     |
 |-------------------------|-------------------------------------------------------------------------------------------------|
 | [N8N Job Scrapper](https://github.com/apettiigrew/n8n-job-scrapper)   | A n8n workflow for scrapping jobs on linkedin post and jobs.      |
+|  [N8N AI Calendar Assistant](https://github.com/apettiigrew/n8n-telegram-calendar-assistant)   | A n8n workflow that manages google calendar      |
 
 
  
