@@ -55,9 +55,16 @@ Oracle Endeca Commerce
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-## Note Worthy Projects
+## Full Stack Projects
 | Project           | Description                                                                                     |
 |-------------------------|-------------------------------------------------------------------------------------------------|
 | [Invoice Microservices](https://github.com/apettiigrew/invoice-microservices)   | A microservices-based invoice management system using Spring Boot, Docker, and Kubernetes.      |
+
+
+## Automation Projects
+| Project           | Description                                                                                     |
+|-------------------------|-------------------------------------------------------------------------------------------------|
+| [N8N Job Scrapper](https://github.com/apettiigrew/n8n-job-scrapper)   | A n8n workflow for scrapping jobs on linkedin post and jobs.      |
+
 
  
