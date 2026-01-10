@@ -66,6 +66,7 @@ Oracle Endeca Commerce
 |-------------------------|-------------------------------------------------------------------------------------------------|
 | [N8N Job Scrapper](https://github.com/apettiigrew/n8n-job-scrapper)   | A n8n workflow for scrapping jobs on linkedin post and jobs.      |
 |  [N8N AI Telegram Calendar Assistant](https://github.com/apettiigrew/n8n-telegram-calendar-assistant)   | A n8n workflow that manages google calendar via telegram  |
+|  [Voiceflow+Airtable+N8N Customer Support Chatbot](https://github.com/apettiigrew/voiceflow-n8n-support-bot)   | A customer support chatbot built with voiceflow  |
 
 
  
