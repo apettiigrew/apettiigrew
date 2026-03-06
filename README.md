@@ -59,6 +59,7 @@ Oracle Endeca Commerce
 | Project           | Description                                                                                     |
 |-------------------------|-------------------------------------------------------------------------------------------------|
 | [Invoice Microservices](https://github.com/apettiigrew/invoice-microservices)   | A microservices-based invoice management system using Spring Boot, Docker, and Kubernetes.      |
+| [AWS Serverless Session Management System](https://github.com/apettiigrew/aws-voiceflow-sessions-log-sls)   | A serverless AWS pipeline that automatically ends inactive Voiceflow chat sessions.       |
 
 
 ## Automation Projects
